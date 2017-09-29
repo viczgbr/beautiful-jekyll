@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-I am a full-time technical consultant at day and a passionate indie developer at night. 
+I am a full-time technical consultant at day and an indie developer at night. 
 
 You can see my CV [here](https://viczgbr.github.io/cv/cv.html).
 
