@@ -31,4 +31,4 @@ FROM X
 WHERE ProgramID = '2a6ff412-ddea-4e22-ac43-68f38ab13375' AND TableSource = 'AR'
 ```
 
-I expect these 2 queries return the same results however they don't.
+I was expecting these 2 queries to return the same results however they don't.
