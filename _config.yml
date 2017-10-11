@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: What-Went-Wrong
+title: Flow
 
 # Short description of your site
-description: Making all the wrong turns
+description: <Main_Void>
 
 # --- Navigation bar options --- #
 
@@ -55,7 +55,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Tommy Tang
+  name: Thomas Tang
   email: "tangtjg@outlook.com"
   # facebook: yourname  # eg. daattali
   github: viczgbr    # eg. daattali
